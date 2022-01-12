@@ -17,9 +17,8 @@ GET /movies/runtime/:runtime
 example => http://localhost:5000/movies/runtime/60
 
 ## GET a movie by year
-GET /movies/year/:year
-
-example => http://localhost:5000/movies/year/2015
+ GET /movies/year/:year
+ example => http://localhost:5000/movies/year/2015
 
 ## GET a movie by genre
 GET /movies/genre/:genre
